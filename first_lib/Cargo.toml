@@ -1,7 +1,7 @@
 [package]
 name = "first_lib"
-version = "0.1.4"
-authors = ["muzammilaliaree@gmail.com"]
+version = "0.1.5"
+authors = ["bravo"]
 edition = "2018"
 description = "Table Library"
 license = "MIT"
