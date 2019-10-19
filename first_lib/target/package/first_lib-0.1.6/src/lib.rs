@@ -1,4 +1,4 @@
-pub fn table_function(mut add_number:u64,mut count_1:u64) {
+pub table_function(mut add_number:u64,mut count_1:u64) {
 
 loop { 
     println!(" 2 * {} = {}",count_1, add_number);
