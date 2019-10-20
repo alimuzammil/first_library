@@ -1,0 +1,1 @@
+/home/bravo/IOT/library_projects/first_library/first_lib/target/package/first_lib-0.1.7/target/debug/libfirst_lib.rlib: /home/bravo/IOT/library_projects/first_library/first_lib/target/package/first_lib-0.1.7/src/lib.rs
